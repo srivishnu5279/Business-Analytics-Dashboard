@@ -16,3 +16,14 @@ This repository contains datasets and Power BI reports focused on key business i
 1. Clone the repository:  
    ```sh
    git clone https://github.com/srivishnu5279/Business-Analytics-Dashboard/tree/main
+
+2. Open the datasets in Excel or any data analysis tool.
+3. Load the Power BI files (.pbix) in Microsoft Power BI Desktop to view the reports.
+4. Modify or enhance reports as needed for business insights.
+## 📢 Contribution
+Feel free to contribute by adding more datasets or improving the existing analyses. Submit a pull request with your changes.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+
